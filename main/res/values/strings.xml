@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Fitness App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="welcome_text">Welcome to Our App</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="account_text">Don\'t have an account? Sign up</string>
+
+    <string name="signUp">SignUp</string>
+    <string name="name">Name</string>
+    <string name="student">Student</string>
+    <string name="faculty">Faculty</string>
+    <string name="cnfrm_password">Confirm Password</string>
+    <string name="login_text">Already have an account? Login</string>
+
+    <string-array name="item_array">
+        <item>Muscles</item>
+        <item>Fit</item>
+        <item>Regular</item>
+    </string-array>
+</resources>
